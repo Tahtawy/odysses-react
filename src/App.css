@@ -1,0 +1,16 @@
+@import '../node_modules/@syncfusion/ej2-icons/styles/bootstrap.css';
+@import '../node_modules/@syncfusion/ej2-inputs/styles/bootstrap.css';
+@import '../node_modules/@syncfusion/ej2-layouts/styles/bootstrap.css';
+@import '../node_modules/@syncfusion/ej2-react-buttons/styles/bootstrap.css';
+@import '../node_modules/@syncfusion/ej2-react-dropdowns/styles/bootstrap.css';
+@import '../node_modules/@syncfusion/ej2-calendars/styles/bootstrap.css';
+@import '../node_modules/@syncfusion/ej2-react-navigations/styles/bootstrap.css';
+@import '../node_modules/@syncfusion/ej2-react-popups/styles/bootstrap.css';
+@import '../node_modules/@syncfusion/ej2-react-splitbuttons/styles/bootstrap.css';
+@import "../node_modules/@syncfusion/ej2-react-grids/styles/bootstrap.css";
+
+@import '../node_modules/@syncfusion/ej2-base/styles/bootstrap.css';
+
+body {
+  background-color: #EEEEEE;
+}
